@@ -26,6 +26,8 @@ Diabetes Prediction Dataset containing 100,000 records and the following feature
 - Blood glucose level
 - Diabetes (target variable)
 
+  Link: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset 
+
 ## Technologies Used
 
 - Python
